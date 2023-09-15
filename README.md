@@ -1,2 +1,2 @@
 # PDTSP
-Heuristics implementation
+Heuristics implementation for a PDTSP problem
